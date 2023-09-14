@@ -1,0 +1,99 @@
+#inicio {
+    background-image: url(https://1.bp.blogspot.com/-t_PjjT48FjE/UhZbhC5ty_I/AAAAAAAAAZs/ZCZmI2iA780/s1600/2013-08-21_18.31.22.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#camino1 {
+    background-image: url(https://w0.peakpx.com/wallpaper/399/326/HD-wallpaper-zombie-silhouette-forest-trees-apocalypse-twilight.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#camino1 p{
+    color: #000;
+    
+}
+#camino1 .boton{
+    color: #000;
+}
+#camino2 {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #000;
+}
+#camino3 {
+    background-image: url(https://i.ytimg.com/vi/3HosTn8MdrE/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#camino4 {
+    background-image: url(https://qph.cf2.quoracdn.net/main-qimg-08bcca49f7ffa549f53792c02e678ae6-pjlq);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#camino5 {
+    background-image: url(https://fondosmil.com/fondo/63478.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#camino6 {
+    background-image: url(https://i.ytimg.com/vi/yNFRakMWt14/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCMcKJaPaXHwM2EjXWlnr7Vpkbn2A);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#camino7 {
+    background-image: url(https://windows.atsit.in/es/wp-content/uploads/sites/10/2023/07/como-obtener-elytra-en-minecraft-4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#caminofinal {
+    background-image: url(https://snowflakemc.files.wordpress.com/2014/03/enderdragon__s_death_by_k66guns0-d4g0bw7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#caminofinal p {
+    color:#fff;
+}
+#caminofinal h1 {
+    color: #fff;
+}
+h1 {
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+p {
+    color: aliceblue;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500; 
+}
+li {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500; 
+}
+#opciones {
+    text-align: center;
+    list-style: none; /* elimina los puntitos (viñeta) */
+}
+
+#opciones li {
+    display: inline-block; /* la lista la coloca horizontalmente */
+    padding: 10px;
+}
+
+.boton {
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid rgb(43, 155, 9);
+    padding: 7px; /* margen interior */
+    border-radius: 5px;
+    display: inline-block;
+}
+.boton:hover { 
+    background-color: rgb(46, 211, 31);
+    color: #000;
+}
